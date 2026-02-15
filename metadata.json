@@ -1,0 +1,6 @@
+
+{
+  "name": "FitKart - Premium Gym & Fitness Store",
+  "description": "A modern e-commerce platform for fitness enthusiasts inspired by Blinkit's clean and fast UI. Featuring supplements, equipment, and clothing with real-time cart management and a responsive design.",
+  "requestFramePermissions": ["geolocation"]
+}
